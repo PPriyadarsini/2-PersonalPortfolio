@@ -1,3 +1,3 @@
 # GDSC Web-D Assignments:
-	a. Login Page
-    b. Personal Portfolio
+	1. Login Page
+    2. Personal Portfolio
