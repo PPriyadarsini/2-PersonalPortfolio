@@ -7,10 +7,7 @@ A Portfolio website is a unique way of showcasing our work. It is the best way t
 A Portfolio is a great way for a wide range of artists to present our work online. It lets us reflect our identity through our work. It also shows my expertise in my field. A Portfolio website increases our online presence. It is a like an online resume. It not only has our projects but our skill set and information about our past experience as well.
 
 
-TECHNOLOGIES USED:
-•	HTML
-•	CSS
-•	JavaScript
+TECHNOLOGIES USED: HTML, CSS, JavaScript
 
 ESSENTIAL ELEMENTS OF THE WEBSITE:
 1.	Home section:  The Portfolio website has a Home Page where it includes a logo, the navbar, name, photo, contact me button, and a one-line introduction using animation.
