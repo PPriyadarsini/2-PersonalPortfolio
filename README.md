@@ -1,6 +1,3 @@
-# GDSC Web-D Assignments:
-
-
 # Personal Portfolio Using JavaScript
 
 A Portfolio website is a unique way of showcasing our work. It is the best way to express someone’s personality, experience and capabilities. 
