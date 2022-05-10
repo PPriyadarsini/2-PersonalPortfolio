@@ -12,17 +12,17 @@ $(document).ready(function () {
 const sr = ScrollReveal({
     origin:'top',
     distance:'80px',
-    duration:2000,
+    duration:4000,
     reset: true
 })
 
 sr.reveal('.home',)
 
 sr.reveal('.about-content',{delay: 300})
-sr.reveal('.skills-content',{delay: 500})
-sr.reveal('.work-container',{delay: 700})
-sr.reveal('.fields',{delay:200})
-sr.reveal('.field',{delay: 300})
+sr.reveal('.skills-content',{delay: 300})
+sr.reveal('.work-container',{delay: 300})
+sr.reveal('.fields',{delay:400})
+sr.reveal('.field',{delay: 400})
 sr.reveal('.button',{delay:400})
 
 
