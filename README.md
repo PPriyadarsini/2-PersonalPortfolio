@@ -20,7 +20,7 @@ A Portfolio is a great way for a wide range of artists to present our work onlin
 
 **2.** **About section:** Here in the about section, it includes a brief information about myself, what I am currently doing, my interests and passions. 
 
-**3.** **Skills section:** The Skills section is divided into two categories: Technical and Design Skills. Technical skills include C Language, Java, HTML 5, CSS 3, and JavaScript. Design skills include Adobe Photoshop, Adobe Illustrator, and Figma. 
+**3.** **Skills section:** The Skills section is divided into two categories: Technical and Design Skills. Technical skills include C Language, Java, HTML5, CSS3, and JavaScript. Design skills include Adobe Photoshop, Adobe Illustrator, and Figma. 
 
 **4.** **Work section:** The work section includes some of my artworks that I have done previously. 
 
